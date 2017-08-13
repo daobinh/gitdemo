@@ -1,0 +1,70 @@
+.btn-add{
+	margin-bottom: 2% !important;
+}
+form{
+	margin-bottom: 5%;
+}
+.header{
+	background-color: #ECECEA !important;
+}
+.post_list{
+	height: 156px;
+}
+.post_img{
+	width: 60%;
+	margin-left: 18%;
+}
+.img_view{
+	width: 100%;
+}
+.stunning-header{
+	margin-bottom: 2%;
+}
+/*.container{
+	margin-top: 5% ;
+}*/
+.content-wrapper{
+	background-color: #ECECEA !important;
+}
+.tags-wrap .tag{
+	color: black !important;
+}
+.post-standard-details .socials .social__item i{
+	color: black ;
+}
+.post-standard-details .post__content .post-additional-info .category a{
+	color: black;
+}
+.seoicon-clock,.seoicon-tags,.fa-comment-o{
+	color: red !important;
+}
+ul.pagination_php>li{
+	list-style: none;
+	display: inline-block;
+	border: 1px solid gray;
+	height: 34px;
+}
+ul.pagination_php{
+	height: auto;
+	text-align: right;
+	width: auto;
+	margin: 2% 3% 2% 0;
+	
+
+}
+ul.pagination_php>li>a{
+	line-height: 2px;
+	padding: 10px 14px;
+	padding-top: 3px;
+	overflow: auto;
+	/*height: 38px;*/
+	margin-top: 1px;
+	color: black;
+	font-size: 16px;
+	/*position: absolute;*/
+}
+ul.pagination_php>.active>a{
+	background-color: #337ab7;
+	border-color: #337ab7;
+	color: white;
+}
